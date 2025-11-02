@@ -17,7 +17,7 @@ A modern, responsive React application that generates random GIFs and allows you
 
 ## 🚀 Live Demo
 
-[Add your live demo link here]
+[https://rokusuke69.github.io/Random-GIF-Generator/]
 
 ## 📸 Screenshots
 
